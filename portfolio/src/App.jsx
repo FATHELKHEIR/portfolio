@@ -37,16 +37,7 @@ function App() {
       github: "https://github.com/FATHELKHEIR",
     },
 
-    {
-      id: 3,
-      title: "Project Coming Soon",
-      image: "/images/project-placeholder.png",
-      description:
-        "A new project will be added to my portfolio soon.",
-      technologies: ["HTML", "CSS", "JavaScript"],
-      live: "#",
-      github: "https://github.com/FATHELKHEIR",
-    },
+    
   ];
 
   return (
