@@ -26,16 +26,21 @@ function App() {
       github: "https://github.com/FATHELKHEIR/KAI-STORE",
     },
 
-    {
-      id: 2,
-      title: "Project Coming Soon",
-      image: "/images/project-placeholder.png",
-      description:
-        "A new project will be added to my portfolio soon.",
-      technologies: ["React", "JavaScript"],
-      live: "#",
-      github: "https://github.com/FATHELKHEIR",
-    },
+
+
+
+  {
+    id: 2,
+    title: "Jeu de Dé",
+    description:
+      "Interactive dice game built with React. The project uses state management, events and conditional rendering to display different dice results.",
+    technologies: ["React", "JavaScript", "CSS"],
+    github: "https://github.com/FATHELKHEIR/JeuxD-",
+    live: "https://jeux-de.vercel.app/",
+    image: "/images/dice-game.png"
+  }
+
+
 
     
   ];
