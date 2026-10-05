@@ -248,19 +248,45 @@ function App() {
           </h2>
 
           <div className="education-card">
-            <div className="education-date">2025 — 2027</div>
+  <div className="education-date">2025 — 2027</div>
 
-            <div>
-              <h3>Digital Development</h3>
+  <div>
+    <h3>Digital Development</h3>
 
-              <h4>OFPPT — ISTA NTIC Sidi Maârouf</h4>
+    <h4>OFPPT — ISTA NTIC Sidi Maârouf</h4>
 
-              <p>
-                Training in front-end and back-end web development,
-                programming, databases, and cybersecurity fundamentals.
-              </p>
-            </div>
-          </div>
+    <p>
+      Training in front-end and back-end web development,
+      programming, databases, and cybersecurity fundamentals.
+    </p>
+  </div>
+</div>
+
+
+<div className="education-card">
+  <div className="education-date">2025 — 2026</div>
+
+  <div>
+    <h3>Certified Fundamental Cybersecurity Practitioner</h3>
+
+    <h4>Cybersecurity Professional Training</h4>
+
+    <p>
+      One-year cybersecurity training focused on fundamental security
+      concepts, networks, system security, cyber threats, and practical
+      cybersecurity skills.
+    </p>
+
+    <a
+      href="https://www.myway.ac.ma/fr/filiere/DIA_CFCP_FQ"
+      target="_blank"
+      rel="noreferrer"
+      className="education-link"
+    >
+      View Program ↗
+    </a>
+  </div>
+</div>
         </div>
       </section>
 
