@@ -6,11 +6,12 @@ function App() {
     "CSS",
     "JavaScript",
     "Bootstrap",
+    "cybersecrity",
     "React",
     "PHP",
     "MySQL",
     "Python",
-    "Git",
+    "Laravel",
     "GitHub",
   ];
 
@@ -247,7 +248,7 @@ function App() {
           </h2>
 
           <div className="education-card">
-            <div className="education-date">2024 — 2026</div>
+            <div className="education-date">2025 — 2027</div>
 
             <div>
               <h3>Digital Development</h3>
